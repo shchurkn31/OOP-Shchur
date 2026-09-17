@@ -15,3 +15,7 @@
 1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/shchurkn31/OOP-Shchur/tree/main/lab2v10
+
+---
+## Приклад 
+![alt text](image.png)
